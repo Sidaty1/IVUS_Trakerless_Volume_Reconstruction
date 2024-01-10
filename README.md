@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 #  Citations
 ```
-@inproceedings{El_Hadramy_Verde2023unified,
+@inproceedings{El_Hadramy2023unified,
     title ={Trackerless Volume Reconstruction from Intraoperative Ultrasound Images},
     author={El Hadramy, Sidaty and Verde, Juan and Beaudet Karl-Philippe and Padoy, Nicolas and Cotin, Stéphane},
     booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
